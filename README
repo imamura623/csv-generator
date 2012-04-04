@@ -1,0 +1,10 @@
+csv_generator.php
+
+=== Description ===
+csv_generator.php は↓の様なCSVファイルを作成するスクリプトです。
+
+<pre>
+member_id
+1
+</pre>
+
