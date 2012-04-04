@@ -8,3 +8,4 @@ member_id
 1
 </pre>
 
+member_id の array にある個数分のCSVファイルが作成されます。
